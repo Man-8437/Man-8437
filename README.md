@@ -221,29 +221,21 @@ Belagavi, Karnataka
 
 ---
 
-# 📈 GitHub Stats
+📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Man-8437&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Man-8437&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=Man-8437&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Man-8437&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p>
 
 ---
 
-# 🔥 GitHub Streak
+🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Man-8437&theme=tokyonight&hide_border=true" width="70%" />
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Man-8437&theme=tokyonight&hide_border=true" width="70%" /> </p>
 
 ---
 
-# 📊 Contribution Graph
+📊 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Man-8437&theme=tokyo-night&hide_border=true" width="95%" />
-</p>
-
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Man-8437&theme=tokyo-night&hide_border=true" width="95%" /> </p>
 ---
 
 # 🎯 Currently Working On
