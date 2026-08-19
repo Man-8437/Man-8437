@@ -72,9 +72,17 @@ I enjoy exploring new technologies, developing projects, and using AI to make so
 ### 🔧 Tools
 
 <p>
+  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+### 🤖 AI-Powered Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
 ---
@@ -314,6 +322,8 @@ Belagavi, Karnataka
 * 🔹 Building real-world software solutions
 * 🔹 Learning modern software development practices
 * 🔹 Preparing for software engineering opportunities
+* 🔹 Exploring AI-powered development workflows with Antigravity and Cursor
+* 🔹 Using AI-assisted coding to accelerate real-world software development
 
 ---
 
