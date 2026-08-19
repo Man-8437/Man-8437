@@ -64,6 +64,7 @@ I enjoy exploring new technologies, developing projects, and using AI to make so
 ### 🗄️ Backend & Services
 
 <p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/EmailJS-FF6A3D?style=for-the-badge" />
 </p>
@@ -101,6 +102,54 @@ The fellowship helped me understand how modern AI tools can be integrated into s
 ---
 
 # 🚀 Featured Projects
+
+## 🏆 JerseyFactory Pro — Jersey Production Management System
+
+**Python • PySide6 • SQLite • Pillow • Pandas • OpenPyXL • FontTools • Windows**
+
+> 🏭 **A professional desktop application designed to streamline real-world jersey and T-shirt production operations.**
+
+**JerseyFactory Pro** is a Windows desktop application developed to manage and simplify the workflow of jersey/T-shirt manufacturing. The application focuses on production operations, size management, design handling, production processing, and export workflows.
+
+### ⭐ Key Features
+
+* 🏭 Jersey & T-shirt production management
+* 📐 Front & back size management
+* 👕 Half-sleeve size management
+* 👕 Full-sleeve size management
+* 📏 Width & length based measurements
+* 🎨 Design and artwork management
+* 🖼️ Image processing and production assets
+* 📊 Production data management
+* 📁 Excel-based data processing and export
+* 🗃️ Offline SQLite database
+* 🖥️ Professional Windows desktop interface
+* ⚡ Background processing for production operations
+* 🔧 Designed for real-world jersey manufacturing workflows
+* 📦 Windows executable / offline deployment support
+
+### 🧰 Technology
+
+```text
+Python
+PySide6
+SQLite
+Pillow
+Pandas
+OpenPyXL
+FontTools
+QThread / QThreadPool
+PyInstaller
+Windows File Integration
+```
+
+### 🎯 Project Goal
+
+The goal of JerseyFactory Pro is to transform manual jersey-production workflows into a **structured, efficient, and software-driven production system**, reducing repetitive work and improving production accuracy.
+
+**Project Type:** Major Real-World Desktop Application
+
+---
 
 ## 👥 AI-Based Crowd Management & Abnormal Activity Detection System
 
@@ -158,7 +207,7 @@ My personal portfolio website showcasing my education, skills, projects, experie
 
 ### 🔗 Live Website
 
-[**Visit My Portfolio →**](https://manojkumar-portfolio-sepia.vercel.app/)
+[**Visit My Portfolio →**](https://manojkumar-portfolio-rust.vercel.app/)
 
 ---
 
@@ -218,33 +267,51 @@ Belagavi, Karnataka
 * Web Development
 * Git & GitHub
 * Problem Solving
+* Desktop Application Development
+* Software Engineering
 
 ---
 
-📈 GitHub Stats
+# 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=Man-8437&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Man-8437&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p>
+<p align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=Man-8437&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Man-8437&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</p>
 
 ---
 
-🔥 GitHub Streak
+# 🔥 GitHub Streak
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Man-8437&theme=tokyonight&hide_border=true" width="70%" /> </p>
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Man-8437&theme=tokyonight&hide_border=true" width="70%" />
+
+</p>
 
 ---
 
-📊 Contribution Graph
+# 📊 Contribution Graph
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Man-8437&theme=tokyo-night&hide_border=true" width="95%" /> </p>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Man-8437&theme=tokyo-night&hide_border=true" width="95%" />
+
+</p>
+
 ---
 
 # 🎯 Currently Working On
 
 * 🔹 Improving Data Structures & Algorithms
 * 🔹 Building AI-powered applications
+* 🔹 Developing **JerseyFactory Pro**
 * 🔹 Exploring Agentic AI
 * 🔹 Improving Python & Java development
-* 🔹 Building real-world projects
+* 🔹 Building real-world software solutions
 * 🔹 Learning modern software development practices
 * 🔹 Preparing for software engineering opportunities
 
@@ -254,12 +321,16 @@ Belagavi, Karnataka
 
 <p align="center">
 
-<a href="https://manojkumar-portfolio-sepia.vercel.app/">
+<a href="https://manojkumar-portfolio-rust.vercel.app/">
+
 <img src="https://img.shields.io/badge/Portfolio-00B8D9?style=for-the-badge&logo=vercel&logoColor=white" />
+
 </a>
 
 <a href="https://github.com/Man-8437">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
 </a>
 
 </p>
@@ -270,6 +341,7 @@ Belagavi, Karnataka
 
 💡 Building with curiosity
 🤖 Learning with AI
+🏭 Building real-world software
 🚀 Creating solutions that matter
 
 </p>
